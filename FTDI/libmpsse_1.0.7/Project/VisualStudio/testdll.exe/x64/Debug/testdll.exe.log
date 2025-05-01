@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FT232H\libmpsse_1.0.7\libftd2xx\ftd2xx.h(2071,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../../../test/test.c')
+  
+C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FT232H\libmpsse_1.0.7\include\libmpsse_i2c.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../../../test/test.c')
+  
+  testdll.exe.vcxproj -> C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FT232H\libmpsse_1.0.7\Project\VisualStudio\testdll.exe\x64\Debug\testdll.exe

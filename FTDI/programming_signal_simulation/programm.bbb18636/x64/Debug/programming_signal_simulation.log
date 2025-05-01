@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FTDI\programming_signal_simulation\include\FTD2XX.h(2071,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Source.cpp')
+  
+  programming_signal_simulation.vcxproj -> C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FTDI\programming_signal_simulation\x64\Debug\programming_signal_simulation.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FTDI\test_example\test\include\ftd2xx.h(2071,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Source.cpp')
+  
+  test.vcxproj -> C:\Users\User\Desktop\PRINTER_DATA\66666_reverse_engineering\other mcu examples\FTDI\test_example\test\x64\Debug\test.exe

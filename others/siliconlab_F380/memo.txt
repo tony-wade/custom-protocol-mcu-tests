@@ -1,0 +1,3 @@
+timer 可由串接flip-flop獲得，而sleep()就是用timer倒數，但根據scheduling或經過interpret後精度會大幅降低。
+
+no wait()! 整個系統卡著很糟

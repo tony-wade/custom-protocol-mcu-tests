@@ -1,0 +1,31 @@
+1. 自官網下載安裝匹配之安裝檔與 d2xx driver
+
+
+
+2. 將 d2xx driver資料夾下的' ftd2xx.h '與 匹配的CPU之 'ftd2xx.lib' 複製到新建的VS studio project資料夾中.
+
+(或是從官網之LibMPSSE example檔案中找到這兩個檔案)
+
+ 
+
+3. 開啟 .sln    
+
+
+
+4. 主頁右方當下project按右鍵 選 / 屬性 property/ 連結 linker/ 輸入 -> 其他相依性 Additional Dependencies，提供你所複製的 'ftd2xx.lib'之位置
+
+
+
+5. 主頁右方當下project按右鍵 選 / 屬性 property/  C/C++ ->  其他include目錄，新增 'ftd2xx.h' 所在的資料夾路徑 
+
+
+
+6. 即可import ftd2xx.h 並使用 FT_ API 。建置後至Project新增的 x??(CPU)資料夾找到 project_name.exe並使用之。注意將輸入檔案有更改要重新建.exe
+
+
+
+Note: 開啟MPSSE模式後 FT_Write能夠傳輸 MPSSE cmd來進行 batched data transmission.
+      可用libmpsse_1.0.7/ test 中的.exe測試是否成功連接。
+
+
+

@@ -1,1 +1,1 @@
-# custom-protocol-mcu-tests
+# Custom Protocol & MCU Communication Tests

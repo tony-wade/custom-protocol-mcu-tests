@@ -5,7 +5,7 @@ This page contains two types of files:
 2. Bit-bang speed tests on C8051F380, STM32F103 and Pi5
 
 
-Feel free to use these as learning matetials:)
+Feel free to use these as learning matetials :)
 
 Wade
 
